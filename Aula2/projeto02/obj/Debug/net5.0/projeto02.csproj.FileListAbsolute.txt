@@ -1,0 +1,16 @@
+C:\Aula2\projeto02\bin\Debug\net5.0\projeto02.exe
+C:\Aula2\projeto02\bin\Debug\net5.0\projeto02.deps.json
+C:\Aula2\projeto02\bin\Debug\net5.0\projeto02.runtimeconfig.json
+C:\Aula2\projeto02\bin\Debug\net5.0\projeto02.runtimeconfig.dev.json
+C:\Aula2\projeto02\bin\Debug\net5.0\projeto02.dll
+C:\Aula2\projeto02\bin\Debug\net5.0\ref\projeto02.dll
+C:\Aula2\projeto02\bin\Debug\net5.0\projeto02.pdb
+C:\Aula2\projeto02\obj\Debug\net5.0\projeto02.csproj.AssemblyReference.cache
+C:\Aula2\projeto02\obj\Debug\net5.0\projeto02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aula2\projeto02\obj\Debug\net5.0\projeto02.AssemblyInfoInputs.cache
+C:\Aula2\projeto02\obj\Debug\net5.0\projeto02.AssemblyInfo.cs
+C:\Aula2\projeto02\obj\Debug\net5.0\projeto02.csproj.CoreCompileInputs.cache
+C:\Aula2\projeto02\obj\Debug\net5.0\projeto02.dll
+C:\Aula2\projeto02\obj\Debug\net5.0\ref\projeto02.dll
+C:\Aula2\projeto02\obj\Debug\net5.0\projeto02.pdb
+C:\Aula2\projeto02\obj\Debug\net5.0\projeto02.genruntimeconfig.cache
